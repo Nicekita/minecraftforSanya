@@ -1,0 +1,6 @@
+PeacefulCrypt,-1618,-1594,1567,1583
+BigClockworkSite,-1612,-1577,1600,1645
+RLCraft_SmallUndergroundSkeleton,-1654,-1646,1572,1580
+VillageGuardTower,-1551,-1539,1723,1735
+MysticalTree2,-1566,-1556,1742,1752
+P_WitchDungeon,-1671,-1637,1694,1711

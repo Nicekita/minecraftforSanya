@@ -1,0 +1,4 @@
+RLCraft_DecentZombie,-1536,-1536,1495,1495
+RLCraft_UndergroundRuin2,-1541,-1531,1493,1500
+SmallWoodenCottage1,-1544,-1538,1377,1388
+DinosaurSkull,-1688,-1677,1497,1516

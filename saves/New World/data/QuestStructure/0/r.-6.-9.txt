@@ -1,0 +1,3 @@
+SmallClockworkSite,-3580,-3561,-4702,-4680
+RLCraft_DesertTown,-3540,-3474,-4703,-4637
+FallenPalmTree,-3516,-3506,-4631,-4627

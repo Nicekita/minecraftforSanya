@@ -1,0 +1,8 @@
+ShrineSmallWater,-110,-102,-184,-176
+RLCraft_DecentSkeleton,-17,-17,-159,-159
+RLCraft_UndergroundRuin2,-22,-12,-161,-154
+RLCraft_DecentWitch,11,11,-50,-50
+RLCraft_UndergroundRuin2,9,16,-55,-45
+ShrineSmallAir,35,43,-83,-75
+RLCraft_BasicWitch,101,101,-36,-36
+RLCraft_UndergroundRuin1,98,107,-42,-33

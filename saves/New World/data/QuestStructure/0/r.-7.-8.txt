@@ -1,0 +1,6 @@
+DesertWatchtower,-3712,-3702,-4474,-4464
+RLCraft_DecentSkeleton,-3854,-3854,-4527,-4527
+RLCraft_UndergroundRuin2,-3859,-3849,-4532,-4525
+DinosaurSkull,-3936,-3917,-4532,-4521
+RLCraft_DecentSkeleton,-3969,-3969,-4553,-4553
+RLCraft_UndergroundRuin2,-3971,-3964,-4558,-4548
